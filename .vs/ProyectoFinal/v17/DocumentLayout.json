@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36FBB812-AFEA-4558-B11D-28D6451591CB}|CapaDatos\\CapaDatos.csproj|c:\\users\\barce\\source\\repos\\proyectofinal\\capadatos\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36FBB812-AFEA-4558-B11D-28D6451591CB}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36FBB812-AFEA-4558-B11D-28D6451591CB}|CapaDatos\\CapaDatos.csproj|C:\\Users\\barce\\source\\repos\\ProyectoFinal\\capadatos\\cdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36FBB812-AFEA-4558-B11D-28D6451591CB}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32C736C-43A3-4343-9104-AD41C1E39CCD}|CapaPresentation\\CapaPresentation.csproj|C:\\Users\\barce\\source\\repos\\ProyectoFinal\\capapresentation\\utils\\imageutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32C736C-43A3-4343-9104-AD41C1E39CCD}|CapaPresentation\\CapaPresentation.csproj|solutionrelative:capapresentation\\utils\\imageutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8E820B-B45F-4996-8069-0A33AD55D296}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\barce\\source\\repos\\ProyectoFinal\\capanegocio\\cnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8E820B-B45F-4996-8069-0A33AD55D296}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32C736C-43A3-4343-9104-AD41C1E39CCD}|CapaPresentation\\CapaPresentation.csproj|C:\\Users\\barce\\source\\repos\\ProyectoFinal\\capapresentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C32C736C-43A3-4343-9104-AD41C1E39CCD}|CapaPresentation\\CapaPresentation.csproj|solutionrelative:capapresentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32C736C-43A3-4343-9104-AD41C1E39CCD}|CapaPresentation\\CapaPresentation.csproj|c:\\users\\barce\\source\\repos\\proyectofinal\\capapresentation\\updatetalentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32C736C-43A3-4343-9104-AD41C1E39CCD}|CapaPresentation\\CapaPresentation.csproj|solutionrelative:capapresentation\\updatetalentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32C736C-43A3-4343-9104-AD41C1E39CCD}|CapaPresentation\\CapaPresentation.csproj|C:\\Users\\barce\\source\\repos\\ProyectoFinal\\capapresentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32C736C-43A3-4343-9104-AD41C1E39CCD}|CapaPresentation\\CapaPresentation.csproj|solutionrelative:capapresentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32C736C-43A3-4343-9104-AD41C1E39CCD}|CapaPresentation\\CapaPresentation.csproj|C:\\Users\\barce\\source\\repos\\ProyectoFinal\\capapresentation\\addtalentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32C736C-43A3-4343-9104-AD41C1E39CCD}|CapaPresentation\\CapaPresentation.csproj|solutionrelative:capapresentation\\addtalentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32C736C-43A3-4343-9104-AD41C1E39CCD}|CapaPresentation\\CapaPresentation.csproj|c:\\users\\barce\\source\\repos\\proyectofinal\\capapresentation\\searchtalent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32C736C-43A3-4343-9104-AD41C1E39CCD}|CapaPresentation\\CapaPresentation.csproj|solutionrelative:capapresentation\\searchtalent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32C736C-43A3-4343-9104-AD41C1E39CCD}|CapaPresentation\\CapaPresentation.csproj|C:\\Users\\barce\\source\\repos\\ProyectoFinal\\capapresentation\\updatetalentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C32C736C-43A3-4343-9104-AD41C1E39CCD}|CapaPresentation\\CapaPresentation.csproj|solutionrelative:capapresentation\\updatetalentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32C736C-43A3-4343-9104-AD41C1E39CCD}|CapaPresentation\\CapaPresentation.csproj|c:\\users\\barce\\source\\repos\\proyectofinal\\capapresentation\\addtalentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C32C736C-43A3-4343-9104-AD41C1E39CCD}|CapaPresentation\\CapaPresentation.csproj|solutionrelative:capapresentation\\addtalentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32C736C-43A3-4343-9104-AD41C1E39CCD}|CapaPresentation\\CapaPresentation.csproj|c:\\users\\barce\\source\\repos\\proyectofinal\\capapresentation\\searchtalent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C32C736C-43A3-4343-9104-AD41C1E39CCD}|CapaPresentation\\CapaPresentation.csproj|solutionrelative:capapresentation\\searchtalent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DEF6B0-0EAF-4C50-8BDA-A1915E8CE12E}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\barce\\source\\repos\\proyectofinal\\capaentidad\\centidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DEF6B0-0EAF-4C50-8BDA-A1915E8CE12E}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\centidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32C736C-43A3-4343-9104-AD41C1E39CCD}|CapaPresentation\\CapaPresentation.csproj|c:\\users\\barce\\source\\repos\\proyectofinal\\capapresentation\\cvviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C32C736C-43A3-4343-9104-AD41C1E39CCD}|CapaPresentation\\CapaPresentation.csproj|solutionrelative:capapresentation\\cvviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32C736C-43A3-4343-9104-AD41C1E39CCD}|CapaPresentation\\CapaPresentation.csproj|c:\\users\\barce\\source\\repos\\proyectofinal\\capapresentation\\cvviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32C736C-43A3-4343-9104-AD41C1E39CCD}|CapaPresentation\\CapaPresentation.csproj|solutionrelative:capapresentation\\cvviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32C736C-43A3-4343-9104-AD41C1E39CCD}|CapaPresentation\\CapaPresentation.csproj|C:\\Users\\barce\\source\\repos\\ProyectoFinal\\capapresentation\\addtalentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32C736C-43A3-4343-9104-AD41C1E39CCD}|CapaPresentation\\CapaPresentation.csproj|solutionrelative:capapresentation\\addtalentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32C736C-43A3-4343-9104-AD41C1E39CCD}|CapaPresentation\\CapaPresentation.csproj|c:\\users\\barce\\source\\repos\\proyectofinal\\capapresentation\\cvviewer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32C736C-43A3-4343-9104-AD41C1E39CCD}|CapaPresentation\\CapaPresentation.csproj|solutionrelative:capapresentation\\cvviewer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaDatos\\DB.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DB.cs",
+              "ToolTip": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaDatos\\DB.cs",
+              "RelativeToolTip": "CapaDatos\\DB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:18:47.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaNegocio\\CNegocio.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CNegocio.cs",
+              "ToolTip": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaNegocio\\CNegocio.cs",
+              "RelativeToolTip": "CapaNegocio\\CNegocio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:21:31.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaPresentation\\Form1.cs",
+              "RelativeDocumentMoniker": "CapaPresentation\\Form1.cs",
+              "ToolTip": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaPresentation\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentation\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T00:35:14.04Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImageUtils.cs",
+              "DocumentMoniker": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaPresentation\\Utils\\ImageUtils.cs",
+              "RelativeDocumentMoniker": "CapaPresentation\\Utils\\ImageUtils.cs",
+              "ToolTip": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaPresentation\\Utils\\ImageUtils.cs",
+              "RelativeToolTip": "CapaPresentation\\Utils\\ImageUtils.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:43:17.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CDatos.cs",
+              "DocumentMoniker": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaDatos\\CDatos.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CDatos.cs",
+              "ToolTip": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaDatos\\CDatos.cs",
+              "RelativeToolTip": "CapaDatos\\CDatos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:21:51.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateTalentForm.cs",
+              "DocumentMoniker": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaPresentation\\UpdateTalentForm.cs",
+              "RelativeDocumentMoniker": "CapaPresentation\\UpdateTalentForm.cs",
+              "ToolTip": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaPresentation\\UpdateTalentForm.cs",
+              "RelativeToolTip": "CapaPresentation\\UpdateTalentForm.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAmwDEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T17:00:04.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaPresentation\\Form1.cs",
+              "RelativeDocumentMoniker": "CapaPresentation\\Form1.cs",
+              "ToolTip": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaPresentation\\Form1.cs",
+              "RelativeToolTip": "CapaPresentation\\Form1.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwCEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:18:37.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddTalentForm.cs",
+              "DocumentMoniker": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaPresentation\\AddTalentForm.cs",
+              "RelativeDocumentMoniker": "CapaPresentation\\AddTalentForm.cs",
+              "ToolTip": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaPresentation\\AddTalentForm.cs",
+              "RelativeToolTip": "CapaPresentation\\AddTalentForm.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:22:34.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SearchTalent.cs",
+              "DocumentMoniker": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaPresentation\\SearchTalent.cs",
+              "RelativeDocumentMoniker": "CapaPresentation\\SearchTalent.cs",
+              "ToolTip": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaPresentation\\SearchTalent.cs",
+              "RelativeToolTip": "CapaPresentation\\SearchTalent.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T18:21:42.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateTalentForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaPresentation\\UpdateTalentForm.cs",
+              "RelativeDocumentMoniker": "CapaPresentation\\UpdateTalentForm.cs",
+              "ToolTip": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaPresentation\\UpdateTalentForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentation\\UpdateTalentForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T00:31:29.492Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddTalentForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaPresentation\\AddTalentForm.cs",
+              "RelativeDocumentMoniker": "CapaPresentation\\AddTalentForm.cs",
+              "ToolTip": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaPresentation\\AddTalentForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentation\\AddTalentForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T18:25:56.217Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SearchTalent.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaPresentation\\SearchTalent.cs",
+              "RelativeDocumentMoniker": "CapaPresentation\\SearchTalent.cs",
+              "ToolTip": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaPresentation\\SearchTalent.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentation\\SearchTalent.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T18:14:53.409Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CEntidad.cs",
+              "DocumentMoniker": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaEntidad\\CEntidad.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\CEntidad.cs",
+              "ToolTip": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaEntidad\\CEntidad.cs",
+              "RelativeToolTip": "CapaEntidad\\CEntidad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T18:17:39.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CVViewer.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaPresentation\\CVViewer.cs",
+              "RelativeDocumentMoniker": "CapaPresentation\\CVViewer.cs",
+              "ToolTip": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaPresentation\\CVViewer.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentation\\CVViewer.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T00:39:07.599Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CVViewer.cs",
+              "DocumentMoniker": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaPresentation\\CVViewer.cs",
+              "RelativeDocumentMoniker": "CapaPresentation\\CVViewer.cs",
+              "ToolTip": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaPresentation\\CVViewer.cs",
+              "RelativeToolTip": "CapaPresentation\\CVViewer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T17:39:27.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddTalentForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaPresentation\\AddTalentForm.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentation\\AddTalentForm.Designer.cs",
+              "ToolTip": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaPresentation\\AddTalentForm.Designer.cs",
+              "RelativeToolTip": "CapaPresentation\\AddTalentForm.Designer.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAAAwwMsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:39:11.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CVViewer.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaPresentation\\CVViewer.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentation\\CVViewer.Designer.cs",
+              "ToolTip": "C:\\Users\\barce\\source\\repos\\ProyectoFinal\\CapaPresentation\\CVViewer.Designer.cs",
+              "RelativeToolTip": "CapaPresentation\\CVViewer.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:47:37.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
